@@ -2,7 +2,7 @@
   "id": "org.nuvio.livetv.my",
   "name": "Malaysia Live TV",
   "version": "1.0.0",
-  "description": "Free-to-air live TV channels from Malaysia's official broadcasters: RTM (TV1, TV2, TV6, Berita RTM, RTM Parlimen) and Media Prima / Tonton (TV3, 8TV, TV9, DidikTV KPM). Every stream points directly at each broadcaster's own official CDN infrastructure - no third-party mirrors.",
+  "description": "Free-to-air live TV channels from RTM (Radio Televisyen Malaysia): TV1, TV2, TV6, Berita RTM, RTM Parlimen (Dewan Rakyat & Dewan Negara). Every stream points directly at RTM's own official CloudFront CDN - no third-party mirrors. (Media Prima/Tonton channels removed 2026-09-09: their stream URLs returned HTTP 400, need re-verification before re-adding.)",
   "logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
   "catalogs": [
     {

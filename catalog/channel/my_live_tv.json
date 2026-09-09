@@ -77,58 +77,6 @@
       "genres": [
         "RTM"
       ]
-    },
-    {
-      "id": "mytv-tv3",
-      "type": "channel",
-      "name": "TV3",
-      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "posterShape": "square",
-      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "description": "TV3 - Media Prima's flagship free-to-air entertainment channel, simulcast via Tonton's official Akamai CDN.",
-      "genres": [
-        "Media Prima / Tonton"
-      ]
-    },
-    {
-      "id": "mytv-8tv",
-      "type": "channel",
-      "name": "8TV",
-      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "posterShape": "square",
-      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "description": "8TV - Media Prima's free-to-air Chinese/English-language channel, simulcast via Tonton's official Akamai CDN.",
-      "genres": [
-        "Media Prima / Tonton"
-      ]
-    },
-    {
-      "id": "mytv-tv9",
-      "type": "channel",
-      "name": "TV9",
-      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "posterShape": "square",
-      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "description": "TV9 - Media Prima's free-to-air general entertainment channel, simulcast via Tonton's official Akamai CDN.",
-      "genres": [
-        "Media Prima / Tonton"
-      ]
-    },
-    {
-      "id": "mytv-didiktvkpm",
-      "type": "channel",
-      "name": "DidikTV KPM",
-      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "posterShape": "square",
-      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
-      "description": "DidikTV KPM - Malaysia's free-to-air educational channel (Kementerian Pendidikan Malaysia), simulcast via Tonton's official Akamai CDN.",
-      "genres": [
-        "Media Prima / Tonton"
-      ]
     }
   ]
 }
