@@ -1,0 +1,25 @@
+{
+  "id": "org.nuvio.livetv.my",
+  "name": "Malaysia Live TV",
+  "version": "1.0.0",
+  "description": "Free-to-air live TV channels from Malaysia's official broadcasters: RTM (TV1, TV2, TV6, Berita RTM, RTM Parlimen) and Media Prima / Tonton (TV3, 8TV, TV9, DidikTV KPM). Every stream points directly at each broadcaster's own official CDN infrastructure - no third-party mirrors.",
+  "logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+  "catalogs": [
+    {
+      "type": "channel",
+      "id": "my_live_tv",
+      "name": "Malaysia Live TV",
+      "showInHome": true
+    }
+  ],
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "channel"
+  ],
+  "idPrefixes": [
+    "mytv-"
+  ]
+}

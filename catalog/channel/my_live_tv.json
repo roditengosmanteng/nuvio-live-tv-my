@@ -1,0 +1,134 @@
+{
+  "metas": [
+    {
+      "id": "mytv-tv1",
+      "type": "channel",
+      "name": "TV1",
+      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "posterShape": "square",
+      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "background": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "description": "RTM TV1 - Radio Televisyen Malaysia's flagship free-to-air channel (news, current affairs, culture). Official RTM CloudFront stream, verified live and playable unencrypted.",
+      "genres": [
+        "RTM"
+      ]
+    },
+    {
+      "id": "mytv-tv2",
+      "type": "channel",
+      "name": "TV2",
+      "poster": "https://tv2.rtm.gov.my/assets/img/TV2.png",
+      "posterShape": "square",
+      "logo": "https://tv2.rtm.gov.my/assets/img/TV2.png",
+      "background": "https://tv2.rtm.gov.my/assets/img/TV2.png",
+      "description": "RTM TV2 - entertainment and youth-focused free-to-air channel from RTM. Official RTM CloudFront stream, verified live and playable unencrypted.",
+      "genres": [
+        "RTM"
+      ]
+    },
+    {
+      "id": "mytv-tv6",
+      "type": "channel",
+      "name": "TV6",
+      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",
+      "posterShape": "square",
+      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",
+      "background": "https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",
+      "description": "RTM TV6 (Bes Kuari) - RTM's free-to-air youth/lifestyle channel. Official RTM CloudFront stream, verified live and playable unencrypted.",
+      "genres": [
+        "RTM"
+      ]
+    },
+    {
+      "id": "mytv-berita",
+      "type": "channel",
+      "name": "Berita RTM",
+      "poster": "https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",
+      "posterShape": "square",
+      "logo": "https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",
+      "background": "https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",
+      "description": "Berita RTM - RTM's 24-hour rolling news channel. Official RTM CloudFront stream, verified live and playable unencrypted.",
+      "genres": [
+        "RTM"
+      ]
+    },
+    {
+      "id": "mytv-parlimen-rakyat",
+      "type": "channel",
+      "name": "RTM Parlimen (Dewan Rakyat)",
+      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "posterShape": "square",
+      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "background": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "description": "RTM's live simulcast of Dewan Rakyat (House of Representatives) parliamentary proceedings. Official RTM CloudFront stream, verified live and playable unencrypted.",
+      "genres": [
+        "RTM"
+      ]
+    },
+    {
+      "id": "mytv-parlimen-negara",
+      "type": "channel",
+      "name": "RTM Parlimen (Dewan Negara)",
+      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "posterShape": "square",
+      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "background": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "description": "RTM's live simulcast of Dewan Negara (Senate) parliamentary proceedings. Official RTM CloudFront stream, verified live and playable unencrypted.",
+      "genres": [
+        "RTM"
+      ]
+    },
+    {
+      "id": "mytv-tv3",
+      "type": "channel",
+      "name": "TV3",
+      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "posterShape": "square",
+      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "description": "TV3 - Media Prima's flagship free-to-air entertainment channel, simulcast via Tonton's official Akamai CDN.",
+      "genres": [
+        "Media Prima / Tonton"
+      ]
+    },
+    {
+      "id": "mytv-8tv",
+      "type": "channel",
+      "name": "8TV",
+      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "posterShape": "square",
+      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "description": "8TV - Media Prima's free-to-air Chinese/English-language channel, simulcast via Tonton's official Akamai CDN.",
+      "genres": [
+        "Media Prima / Tonton"
+      ]
+    },
+    {
+      "id": "mytv-tv9",
+      "type": "channel",
+      "name": "TV9",
+      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "posterShape": "square",
+      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "description": "TV9 - Media Prima's free-to-air general entertainment channel, simulcast via Tonton's official Akamai CDN.",
+      "genres": [
+        "Media Prima / Tonton"
+      ]
+    },
+    {
+      "id": "mytv-didiktvkpm",
+      "type": "channel",
+      "name": "DidikTV KPM",
+      "poster": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "posterShape": "square",
+      "logo": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "background": "https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",
+      "description": "DidikTV KPM - Malaysia's free-to-air educational channel (Kementerian Pendidikan Malaysia), simulcast via Tonton's official Akamai CDN.",
+      "genres": [
+        "Media Prima / Tonton"
+      ]
+    }
+  ]
+}

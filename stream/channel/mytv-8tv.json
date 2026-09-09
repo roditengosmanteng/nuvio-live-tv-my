@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "name": "Media Prima / Tonton",
+      "title": "8TV - Live",
+      "url": "https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8",
+      "behaviorHints": {
+        "notWebReady": false,
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://watch.tonton.com.my/",
+            "Origin": "https://watch.tonton.com.my"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "name": "RTM",
+      "title": "RTM Parlimen (Dewan Rakyat) - Live",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+      "behaviorHints": {
+        "notWebReady": false,
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://rtmklik.rtm.gov.my/",
+            "Origin": "https://rtmklik.rtm.gov.my"
+          }
+        }
+      }
+    }
+  ]
+}
