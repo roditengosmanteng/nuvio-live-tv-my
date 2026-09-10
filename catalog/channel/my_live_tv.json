@@ -43,10 +43,10 @@
       "id": "mytv-berita",
       "type": "channel",
       "name": "Berita RTM",
-      "poster": "https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",
+      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",
       "posterShape": "square",
-      "logo": "https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",
-      "background": "https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",
+      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",
+      "background": "https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",
       "description": "Berita RTM - RTM's 24-hour rolling news channel. Official RTM CloudFront stream, verified live and playable unencrypted.",
       "genres": [
         "RTM"
@@ -56,10 +56,10 @@
       "id": "mytv-parlimen-rakyat",
       "type": "channel",
       "name": "RTM Parlimen (Dewan Rakyat)",
-      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",
       "posterShape": "square",
-      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
-      "background": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",
+      "background": "https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",
       "description": "RTM's live simulcast of Dewan Rakyat (House of Representatives) parliamentary proceedings. Official RTM CloudFront stream, verified live and playable unencrypted.",
       "genres": [
         "RTM"
@@ -69,10 +69,10 @@
       "id": "mytv-parlimen-negara",
       "type": "channel",
       "name": "RTM Parlimen (Dewan Negara)",
-      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "poster": "https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png",
       "posterShape": "square",
-      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
-      "background": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",
+      "logo": "https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png",
+      "background": "https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png",
       "description": "RTM's live simulcast of Dewan Negara (Senate) parliamentary proceedings. Official RTM CloudFront stream, verified live and playable unencrypted.",
       "genres": [
         "RTM"
